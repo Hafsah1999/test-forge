@@ -8,7 +8,7 @@ const Contact = () => {
 <a href="https://www.material-tailwind.com/magic-ai" target="_blank">Generated with <b>Magic AI Blocks</b></a> by <a href="https://www.creative-tim.com/" target="_blank">Creative Tim</a>. <br/> <br/>
 
 <section>
-  <div class="relative w-full h-96"><img class="absolute h-full w-full object-cover object-center" src="https://bucket.material-tailwind.com/magic-ai/bbe71871de8b4d6f23bb0f17a6d5aa342f3dea72677ba7238b18defa3741244d.jpg" alt="nature image" />
+  <div class="relative w-full h-96"><Image class="absolute h-full w-full object-cover object-center" src="https://bucket.material-tailwind.com/magic-ai/bbe71871de8b4d6f23bb0f17a6d5aa342f3dea72677ba7238b18defa3741244d.jpg" alt="nature image" />
     <div class="absolute inset-0 h-full w-full bg-black/50"></div>
     <div class="relative pt-28 text-center">
       <h2 class="block antialiased tracking-normal font-sans font-semibold leading-[1.3] text-white mb-4 text-3xl lg:text-4xl">Contact Information</h2>

@@ -88,8 +88,8 @@ export default function TeacherLogin() {
             </form>
           </div>
           <div className="hidden md:block">
-            <img
-              src="https://i.pinimg.com/564x/dd/c9/08/ddc908900cf333486421816d235ae5d4.jpg"
+            <Image
+              src="https://i.pinImage.com/564x/dd/c9/08/ddc908900cf333486421816d235ae5d4.jpg"
               alt=""
               className="rounded-r-2xl"
             />

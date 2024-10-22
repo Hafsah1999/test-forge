@@ -38,7 +38,7 @@ export default function AdminLogin() {
   return (
     <div className="min-h-screen flex flex-col  lg:flex-row items-center justify-center shadow-xl py-12 px-4 sm:px-6 lg:px-8 bg-gray-100">
       <div className="hidden lg:block mb-8 lg:mb-0 lg:mr-8">
-        <img src="https://i.pinimg.com/564x/bd/a3/17/bda3177a3943ffdbcc652b3a678a0d74.jpg" alt="Admin Login" className="rounded-lg w-full lg:w-96" />
+        <Image src="https://i.pinImage.com/564x/bd/a3/17/bda3177a3943ffdbcc652b3a678a0d74.jpg" alt="Admin Login" className="rounded-lg w-full lg:w-96" />
       </div>
       <div className="max-w-md w-full space-y-8 bg-[#d9d9d9] p-8 lg:p-12 rounded-lg lg:rounded-r-xl">
         <h2 className="mt-6 text-center text-3xl font-extrabold text-gray-900">Admin Login</h2>

@@ -531,7 +531,7 @@ export default function AdminDashboard() {
               <tr>
                 <td className="py-2 px-4 border-b border-b-gray-50">
                   <div className="flex items-center">
-                    <img
+                    <Image
                       src="https://placehold.co/32x32"
                       alt=""
                       className="w-8 h-8 rounded object-cover block"
@@ -558,7 +558,7 @@ export default function AdminDashboard() {
               <tr>
                 <td className="py-2 px-4 border-b border-b-gray-50">
                   <div className="flex items-center">
-                    <img
+                    <Image
                       src="https://placehold.co/32x32"
                       alt=""
                       className="w-8 h-8 rounded object-cover block"
@@ -585,7 +585,7 @@ export default function AdminDashboard() {
               <tr>
                 <td className="py-2 px-4 border-b border-b-gray-50">
                   <div className="flex items-center">
-                    <img
+                    <Image
                       src="https://placehold.co/32x32"
                       alt=""
                       className="w-8 h-8 rounded object-cover block"
@@ -612,7 +612,7 @@ export default function AdminDashboard() {
               <tr>
                 <td className="py-2 px-4 border-b border-b-gray-50">
                   <div className="flex items-center">
-                    <img
+                    <Image
                       src="https://placehold.co/32x32"
                       alt=""
                       className="w-8 h-8 rounded object-cover block"
@@ -639,7 +639,7 @@ export default function AdminDashboard() {
               <tr>
                 <td className="py-2 px-4 border-b border-b-gray-50">
                   <div className="flex items-center">
-                    <img
+                    <Image
                       src="https://placehold.co/32x32"
                       alt=""
                       className="w-8 h-8 rounded object-cover block"
@@ -666,7 +666,7 @@ export default function AdminDashboard() {
               <tr>
                 <td className="py-2 px-4 border-b border-b-gray-50">
                   <div className="flex items-center">
-                    <img
+                    <Image
                       src="https://placehold.co/32x32"
                       alt=""
                       className="w-8 h-8 rounded object-cover block"
@@ -693,7 +693,7 @@ export default function AdminDashboard() {
               <tr>
                 <td className="py-2 px-4 border-b border-b-gray-50">
                   <div className="flex items-center">
-                    <img
+                    <Image
                       src="https://placehold.co/32x32"
                       alt=""
                       className="w-8 h-8 rounded object-cover block"
@@ -720,7 +720,7 @@ export default function AdminDashboard() {
               <tr>
                 <td className="py-2 px-4 border-b border-b-gray-50">
                   <div className="flex items-center">
-                    <img
+                    <Image
                       src="https://placehold.co/32x32"
                       alt=""
                       className="w-8 h-8 rounded object-cover block"
@@ -747,7 +747,7 @@ export default function AdminDashboard() {
               <tr>
                 <td className="py-2 px-4 border-b border-b-gray-50">
                   <div className="flex items-center">
-                    <img
+                    <Image
                       src="https://placehold.co/32x32"
                       alt=""
                       className="w-8 h-8 rounded object-cover block"
@@ -774,7 +774,7 @@ export default function AdminDashboard() {
               <tr>
                 <td className="py-2 px-4 border-b border-b-gray-50">
                   <div className="flex items-center">
-                    <img
+                    <Image
                       src="https://placehold.co/32x32"
                       alt=""
                       className="w-8 h-8 rounded object-cover block"

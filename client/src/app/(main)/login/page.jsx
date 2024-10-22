@@ -43,7 +43,7 @@ const Login = () => {
       <div className="">
         <div className="grid grid-cols-3">
           <div className="col-span-2">
-            <img src="test forge.jpg" className='w-36' alt="" />
+            <Image src="test forge.jpg" className='w-36' alt="" />
             <div className="flex items-center h-3/4 justify-center flex-col">
               <form className="w-full max-w-sm">
                 <div className="text-purple-500 text-4xl font-bold">Sign In</div>
